@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5843db1b6846e5642b506e43b07d637f, type: 3}
+  m_Name: Hanabi
+  m_EditorClassIdentifier: 
+  _characterName:
+    _value: Hanabi
+  _health:
+    _value: 50
+  _attack:
+    _value: 10
+  _defense:
+    _value: 3
+  _attackMultiplier:
+    _value: 1
+  _defenseMultiplier:
+    _value: 1
+  _profilePicture: {fileID: 21300000, guid: f70753397fec1f746a81fcf4922a082e, type: 3}
+  _AttackIcon: 4
+  _DefenseIcon: 1
+  _talentIcon: 1
+  _VFXAttack: {fileID: 0}
+  _VFXDefense: {fileID: 5464732288183676446, guid: b7c7de94579a8094ab5dc38377eaea6a,
+    type: 3}
+  _VFXPassive: {fileID: 0}
